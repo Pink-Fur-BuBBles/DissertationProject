@@ -1,0 +1,3013 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2025-08-01T15:48:37Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "relation/109553",
+        "addr:city": "London",
+        "addr:street": "Agar Street",
+        "amenity": "police",
+        "building": "yes",
+        "description": "Former Charing Cross Hospital",
+        "fhrs:confidence_management": "0",
+        "fhrs:hygiene": "0",
+        "fhrs:id": "427899",
+        "fhrs:local_authority_id": "00736/2001/2/000",
+        "fhrs:rating": "4",
+        "fhrs:structural": "10",
+        "name": "Charing Cross Police Station",
+        "operator": "Metropolitan Police",
+        "operator:wikidata": "Q1139213",
+        "postal_code": "WC2N 4JP",
+        "type": "multipolygon",
+        "website": "http://content.met.police.uk/PoliceStation/charingcross",
+        "wheelchair": "yes",
+        "wikidata": "Q108745499",
+        "wikipedia": "en:Charing Cross Police Station",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.1250535,
+          51.5097849
+        ]
+      },
+      "id": "relation/109553"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "relation/2513347",
+        "amenity": "police",
+        "building": "yes",
+        "name": "The Old Police House",
+        "type": "multipolygon",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.1655843,
+          51.5081119
+        ]
+      },
+      "id": "relation/2513347"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/4075902",
+        "amenity": "police",
+        "name": "Catford Police Station",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.0144914,
+          51.4308085
+        ]
+      },
+      "id": "way/4075902"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "relation/11329263",
+        "addr:housenumber": "72",
+        "addr:street": "Earl's Court Road",
+        "amenity": "police",
+        "building": "yes",
+        "name": "Kensington Police Station",
+        "type": "multipolygon",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.1979313,
+          51.4973641
+        ]
+      },
+      "id": "relation/11329263"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "relation/15804303",
+        "addr:city": "London",
+        "addr:housenumber": "109",
+        "addr:street": "Lambeth Road",
+        "amenity": "police",
+        "building": "yes",
+        "name": "Metropolitan Police Forensic Science Laboratory",
+        "operator": "Metropolitan Police",
+        "operator:wikidata": "Q1139213",
+        "source": "Bing",
+        "type": "multipolygon",
+        "wheelchair": "yes",
+        "wikidata": "Q111234543",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.117609,
+          51.4943747
+        ]
+      },
+      "id": "relation/15804303"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/24771676",
+        "amenity": "police",
+        "name": "Sutton Police Station",
+        "operator": "Metropolitan Police",
+        "operator:wikidata": "Q1139213",
+        "wheelchair": "yes",
+        "wikidata": "Q26536949",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.1904805,
+          51.3611567
+        ]
+      },
+      "id": "way/24771676"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/27522850",
+        "addr:city": "Hounslow",
+        "addr:housenumber": "3-5",
+        "addr:postcode": "TW3 1LB",
+        "addr:street": "Montague Road",
+        "amenity": "police",
+        "building": "yes",
+        "name": "Hounslow Police Station",
+        "opening_hours": "24/7",
+        "operator": "Metropolitan Police",
+        "operator:wikidata": "Q1139213",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.3642195,
+          51.4690779
+        ]
+      },
+      "id": "way/27522850"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/27562101",
+        "addr:city": "London",
+        "addr:country": "GB",
+        "addr:housenumber": "177",
+        "addr:postcode": "SE15 5SL",
+        "addr:street": "Peckham High Street",
+        "amenity": "police",
+        "name": "Peckham Police Station",
+        "source": "Bing;OS StreetView",
+        "website": "http://content.met.police.uk/PoliceStation/peckham",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.064691,
+          51.4744501
+        ]
+      },
+      "id": "way/27562101"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/30475084",
+        "amenity": "police",
+        "building": "yes",
+        "name": "Islington Police Station",
+        "operator": "Metropolitan Police",
+        "operator:wikidata": "Q1139213",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.1108283,
+          51.5338026
+        ]
+      },
+      "id": "way/30475084"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/30839257",
+        "access": "private",
+        "addr:city": "London",
+        "addr:housenumber": "146",
+        "addr:postcode": "SW18 4JJ",
+        "addr:street": "Wandsworth High Street",
+        "amenity": "police",
+        "fhrs:id": "298403",
+        "name": "Wandsworth Police Station",
+        "note": "No Front Desk By Appointment Only",
+        "operator": "Metropolitan Police Service",
+        "source:addr": "FHRS Open Data",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.1986269,
+          51.4574618
+        ]
+      },
+      "id": "way/30839257"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/30897318",
+        "amenity": "police",
+        "building": "yes",
+        "name": "Holloway Police Station",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.1167251,
+          51.5621473
+        ]
+      },
+      "id": "way/30897318"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/31117060",
+        "addr:city": "London",
+        "addr:housename": "Curtis Green Building",
+        "addr:postcode": "SW1A 2JL",
+        "addr:street": "Victoria Embankment",
+        "alt_name": "Scotland Yard",
+        "amenity": "police",
+        "building": "yes",
+        "name": "New Scotland Yard",
+        "old_name": "Curtis Green Building",
+        "operator": "Metropolitan Police Service",
+        "wikidata": "Q19872443",
+        "wikipedia": "en:New Scotland Yard (building)",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.1243431,
+          51.5027591
+        ]
+      },
+      "id": "way/31117060"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/38432589",
+        "amenity": "police",
+        "building": "yes",
+        "name": "West End Central Police Station",
+        "wikidata": "Q18163108",
+        "wikipedia": "en:West End Central Police Station",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.1413097,
+          51.5114746
+        ]
+      },
+      "id": "way/38432589"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/44953528",
+        "amenity": "police",
+        "building": "yes",
+        "building:levels": "4",
+        "name": "Colindale Police Station",
+        "operator": "Metropolitan Police",
+        "operator:wikidata": "Q1139213",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2409215,
+          51.5968691
+        ]
+      },
+      "id": "way/44953528"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/45827695",
+        "amenity": "police",
+        "building": "yes",
+        "check_date": "2024-11-10",
+        "name": "Bromley Police Station",
+        "operator": "Metropolitan Police",
+        "operator:wikidata": "Q1139213",
+        "postal_code": "BR1 1ER",
+        "wheelchair": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.0178801,
+          51.3993425
+        ]
+      },
+      "id": "way/45827695"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/56651431",
+        "amenity": "police",
+        "building": "yes",
+        "name": "Edmonton Police Station",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.0610766,
+          51.6223269
+        ]
+      },
+      "id": "way/56651431"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/62111345",
+        "amenity": "police",
+        "building": "yes",
+        "name": "Kilburn Police station",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2052757,
+          51.5348469
+        ]
+      },
+      "id": "way/62111345"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/69216982",
+        "addr:city": "London",
+        "addr:housenumber": "12,28",
+        "addr:postcode": "SE17 3BB",
+        "addr:street": "Manor Place",
+        "amenity": "police",
+        "building": "yes",
+        "name": "Walworth Police Station",
+        "opening_hours": "24/7",
+        "source": "OS",
+        "website": "https://www.met.police.uk/",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.0975503,
+          51.4893643
+        ]
+      },
+      "id": "way/69216982"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/77251083",
+        "amenity": "police",
+        "name": "West Hampstead Police Station",
+        "operator": "Metropolitan Police",
+        "operator:wikidata": "Q1139213",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.196224,
+          51.5536723
+        ]
+      },
+      "id": "way/77251083"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/80186354",
+        "amenity": "police",
+        "building": "yes",
+        "name": "Wembley Police Station",
+        "operator": "Metropolitan Police",
+        "source": "OS",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.3056749,
+          51.5515355
+        ]
+      },
+      "id": "way/80186354"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/81411003",
+        "addr:city": "London",
+        "addr:housenumber": "10",
+        "addr:postcode": "WC1N 3NR",
+        "addr:street": "Lambs Conduit Street",
+        "amenity": "police",
+        "building": "public",
+        "contact:website": "https://www.met.police.uk/",
+        "name": "Holborn Police Station",
+        "opening_hours": "Mo-Fr 08:00-20:00, Sa 10:00-18:00",
+        "operator": "Metropolitan Police",
+        "operator:wikidata": "Q1139213",
+        "wheelchair": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.1174952,
+          51.5207839
+        ]
+      },
+      "id": "way/81411003"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/85484699",
+        "amenity": "police",
+        "building": "yes",
+        "name": "Southall Police Station",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.3720718,
+          51.5110849
+        ]
+      },
+      "id": "way/85484699"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/91225110",
+        "addr:city": "London",
+        "addr:housenumber": "67-69",
+        "addr:postcode": "W5 5SA",
+        "addr:street": "Uxbridge Road",
+        "amenity": "police",
+        "building": "yes",
+        "check_date": "2024-08-03",
+        "name": "Ealing Police Station",
+        "source": "Bing",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.3100379,
+          51.5120728
+        ]
+      },
+      "id": "way/91225110"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/92235947",
+        "amenity": "police",
+        "building": "yes",
+        "name": "Enfield Police Station",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.0798012,
+          51.6552827
+        ]
+      },
+      "id": "way/92235947"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/93750137",
+        "addr:city": "London",
+        "addr:housenumber": "176",
+        "addr:postcode": "SW11 1JX",
+        "addr:street": "Lavender Hill",
+        "amenity": "police",
+        "building": "yes",
+        "check_date": "2025-07-04",
+        "name": "Lavender Hill Police Station",
+        "operator": "Metropolitan Police",
+        "operator:wikidata": "Q1139213",
+        "ref:GB:uprn": "100023297405",
+        "source": "OS",
+        "source:addr": "website",
+        "source:name": "website",
+        "website": "http://content.met.police.uk/PoliceStation/lavender",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.1622142,
+          51.4646663
+        ]
+      },
+      "id": "way/93750137"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/97601971",
+        "amenity": "police",
+        "building": "yes",
+        "name": "Sutton Police Station",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.1910007,
+          51.3612245
+        ]
+      },
+      "id": "way/97601971"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/98979970",
+        "amenity": "police",
+        "building": "yes",
+        "building:colour": "grey",
+        "building:levels": "5",
+        "name": "Snow Hill Police Station",
+        "operator": "City Of London Police",
+        "roof:colour": "darkgrey",
+        "source": "Bing",
+        "wheelchair": "yes",
+        "wikidata": "Q27086060",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.1028074,
+          51.5170576
+        ]
+      },
+      "id": "way/98979970"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/100275529",
+        "addr:city": "London",
+        "addr:housenumber": "323",
+        "addr:postcode": "SE1 1JL",
+        "addr:street": "Borough High Street",
+        "amenity": "police",
+        "building": "yes",
+        "check_date": "2024-09-08",
+        "name": "Southwark Police Station",
+        "website": "https://www.met.police.uk/southwark",
+        "wheelchair": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.0959438,
+          51.499324
+        ]
+      },
+      "id": "way/100275529"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/106736175",
+        "addr:city": "London",
+        "addr:housenumber": "12",
+        "addr:postcode": "E2 9NZ",
+        "addr:street": "Victoria Park Square",
+        "amenity": "police",
+        "building": "yes",
+        "fhrs:id": "104016",
+        "name": "Bethnal Green Police Station",
+        "opening_hours": "24/7",
+        "operator": "Metropolitan Police",
+        "operator:wikidata": "Q1139213",
+        "source": "Bing;survey",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.0532848,
+          51.5282091
+        ]
+      },
+      "id": "way/106736175"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/111151034",
+        "amenity": "police",
+        "building": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.0336688,
+          51.3573472
+        ]
+      },
+      "id": "way/111151034"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/111757756",
+        "amenity": "police",
+        "building": "yes",
+        "name": "Belgravia Police Station",
+        "operator": "Metropolitan Police",
+        "operator:wikidata": "Q1139213",
+        "source": "Bing;survey",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.1495944,
+          51.491439
+        ]
+      },
+      "id": "way/111757756"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/114727972",
+        "addr:city": "West Drayton",
+        "addr:country": "GB",
+        "addr:housename": "Heathrow Police Station",
+        "addr:housenumber": "Unit 3",
+        "addr:postcode": "UB7 0DG",
+        "addr:street": "Polar Park, Bath Road",
+        "addr:suburb": "Harmondsworth",
+        "amenity": "police",
+        "building": "yes",
+        "name": "Heathrow Police Station",
+        "operator": "Metropolitan Police",
+        "operator:wikidata": "Q1139213",
+        "source:building": "Bing",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.4678896,
+          51.4824643
+        ]
+      },
+      "id": "way/114727972"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/115864062",
+        "addr:housenumber": "2",
+        "addr:postcode": "DA7 4QS",
+        "addr:street": "Arnsberg Way",
+        "amenity": "police",
+        "building": "yes",
+        "building:colour": "#d8af75",
+        "building:levels": "3",
+        "building:material": "brick",
+        "name": "Bexleyheath Police Station",
+        "roof:colour": "grey",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.1493015,
+          51.4570226
+        ]
+      },
+      "id": "way/115864062"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/122868062",
+        "amenity": "police",
+        "building": "yes",
+        "check_date": "2024-09-01",
+        "name": "Dagenham Police Station",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.1654575,
+          51.5450302
+        ]
+      },
+      "id": "way/122868062"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/126218996",
+        "amenity": "police",
+        "building": "yes",
+        "building:levels": "3",
+        "check_date": "2024-11-29",
+        "name": "Hampstead Police Station",
+        "ref:GB:uprn": "10025296873",
+        "wikidata": "Q26423502",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.1714694,
+          51.5545024
+        ]
+      },
+      "id": "way/126218996"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/126979326",
+        "amenity": "police",
+        "building": "yes",
+        "name": "Kingston Police Station",
+        "wheelchair": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.3068497,
+          51.408181
+        ]
+      },
+      "id": "way/126979326"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/132728780",
+        "amenity": "police",
+        "branch": "Finsbury Park",
+        "building": "yes",
+        "name": "British Transport Police",
+        "operator": "British Transport Police",
+        "operator:wikidata": "Q174588",
+        "police": "yes",
+        "short_name": "BTP",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.1070511,
+          51.5654324
+        ]
+      },
+      "id": "way/132728780"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/134237109",
+        "amenity": "police",
+        "building": "public",
+        "name": "Romford Police Station",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.1862069,
+          51.5820255
+        ]
+      },
+      "id": "way/134237109"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/135561011",
+        "amenity": "police",
+        "building": "yes",
+        "building:levels": "4",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.348478,
+          51.5684608
+        ]
+      },
+      "id": "way/135561011"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/138165983",
+        "amenity": "police",
+        "building": "yes",
+        "name": "Tottenham Police Station",
+        "operator": "Metropolitan Police",
+        "operator:wikidata": "Q1139213",
+        "source": "Bing;survey",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.0696347,
+          51.5908309
+        ]
+      },
+      "id": "way/138165983"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/138475227",
+        "addr:city": "Purley",
+        "addr:street": "Whytecliffe Road South",
+        "amenity": "police",
+        "building": "yes",
+        "name": "Purley and Kenley Wards",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.1150186,
+          51.3379659
+        ]
+      },
+      "id": "way/138475227"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/144350979",
+        "addr:city": "London",
+        "addr:postcode": "E15 4SG",
+        "addr:street": "West Ham Lane",
+        "amenity": "police",
+        "name": "Stratford Police Station",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.0038806,
+          51.539098
+        ]
+      },
+      "id": "way/144350979"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/144357880",
+        "addr:city": "London",
+        "addr:housenumber": "350-360",
+        "addr:postcode": "E7 8BS",
+        "addr:street": "Romford Road",
+        "amenity": "police",
+        "fhrs:id": "1105618",
+        "name": "Forest Gate Police Station",
+        "operator": "Metropolitan Police",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.0306948,
+          51.5465241
+        ]
+      },
+      "id": "way/144357880"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/144717796",
+        "addr:housenumber": "31",
+        "addr:street": "Fulham Palace Road",
+        "amenity": "police",
+        "building": "yes",
+        "name": "British Transport Police Hammersmith",
+        "operator": "British Transport Police",
+        "operator:wikidata": "Q174588",
+        "source": "Bing;survey",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2231448,
+          51.4909925
+        ]
+      },
+      "id": "way/144717796"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/145422002",
+        "addr:housenumber": "192",
+        "addr:postcode": "TN16 3BB",
+        "addr:street": "Main Road",
+        "amenity": "police",
+        "building": "yes",
+        "name": "Biggin Hill",
+        "phone": "+44 20 8721 2820",
+        "website": "http://content.met.police.uk/Team/Bromley/BigginHill",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.0384818,
+          51.3083502
+        ]
+      },
+      "id": "way/145422002"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/149403852",
+        "amenity": "police",
+        "building": "yes",
+        "name": "Clerkenwell and Bunhill Wards Police Station",
+        "operator": "Metropolitan Police",
+        "operator:wikidata": "Q1139213",
+        "source": "Bing;photographic_survey",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.0988626,
+          51.5244944
+        ]
+      },
+      "id": "way/149403852"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/160391564",
+        "addr:city": "London",
+        "addr:country": "GB",
+        "addr:suburb": "Walthamstow",
+        "amenity": "police",
+        "building": "retail",
+        "source": "survey/Bing aerials",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.0244411,
+          51.5840958
+        ]
+      },
+      "id": "way/160391564"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/165892462",
+        "amenity": "police",
+        "building": "yes",
+        "name": "RAF Police",
+        "operator": "RAF Police",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.4163662,
+          51.557005
+        ]
+      },
+      "id": "way/165892462"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/183253153",
+        "amenity": "police",
+        "building": "yes",
+        "name": "Fresh Wharf Custody Base",
+        "operator": "Metropolitan Police",
+        "operator:wikidata": "Q1139213",
+        "police": "detention",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.0734476,
+          51.5299355
+        ]
+      },
+      "id": "way/183253153"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/193799549",
+        "addr:city": "Croydon",
+        "addr:housenumber": "71",
+        "addr:postcode": "CR9 1BP",
+        "addr:street": "Park Lane",
+        "amenity": "police",
+        "contact:facebook": "CroydonPolice",
+        "contact:twitter": "MPSWestcroydon",
+        "fhrs:authority": "Croydon",
+        "fhrs:id": "963553",
+        "name": "Croydon Police Station",
+        "opening_hours": "24/7",
+        "website": "https://www.met.police.uk/area/your-area/met/croydon/fairfield/",
+        "wheelchair": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.095669,
+          51.3705903
+        ]
+      },
+      "id": "way/193799549"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/194401487",
+        "addr:city": "London",
+        "addr:housenumber": "27-29",
+        "addr:postcode": "E14 8EZ",
+        "addr:street": "West India Dock Road",
+        "amenity": "police",
+        "name": "Limehouse Police Station",
+        "operator": "Metropolitan Police",
+        "operator:wikidata": "Q1139213",
+        "source": "Bing;survey",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.0260027,
+          51.5105317
+        ]
+      },
+      "id": "way/194401487"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/196769282",
+        "addr:city": "London",
+        "addr:country": "GB",
+        "addr:housenumber": "212",
+        "addr:postcode": "E14 0BB",
+        "addr:street": "Poplar High Street",
+        "amenity": "police",
+        "building": "office",
+        "note": "Former railway building",
+        "operator": "British Transport Police",
+        "operator:wikidata": "Q174588",
+        "source": "survey",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.0125372,
+          51.5086439
+        ]
+      },
+      "id": "way/196769282"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/202791301",
+        "amenity": "police",
+        "building": "yes",
+        "name": "Gipsy Hill police station",
+        "source": "Bing photograph",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.0844155,
+          51.4197465
+        ]
+      },
+      "id": "way/202791301"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/208086302",
+        "addr:city": "London",
+        "addr:housenumber": "98-102",
+        "addr:postcode": "E1W 2NE",
+        "addr:street": "Wapping High Street",
+        "amenity": "police",
+        "building": "yes",
+        "name": "Metropolitan Police Service Marine Unit",
+        "operator": "Metropolitan Police",
+        "operator:wikidata": "Q1139213",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.0585781,
+          51.503133
+        ]
+      },
+      "id": "way/208086302"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/210363902",
+        "amenity": "police",
+        "name": "Bow Road Police Station",
+        "operator": "Metropolitan Police",
+        "operator:wikidata": "Q1139213",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.0239161,
+          51.528012
+        ]
+      },
+      "id": "way/210363902"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/222885445",
+        "amenity": "police",
+        "building": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.0637166,
+          51.4998258
+        ]
+      },
+      "id": "way/222885445"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/229152797",
+        "amenity": "police",
+        "building": "yes",
+        "name": "Metropolitan Police (Sudbury Ward)",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.3172381,
+          51.5590719
+        ]
+      },
+      "id": "way/229152797"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/230851987",
+        "amenity": "police",
+        "building": "office",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.305602,
+          51.5511207
+        ]
+      },
+      "id": "way/230851987"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/244634550",
+        "addr:city": "Croydon",
+        "addr:housename": "Berin Underwood House",
+        "addr:housenumber": "90",
+        "addr:postcode": "CR0 2XR",
+        "addr:street": "Windmill Road",
+        "amenity": "police",
+        "building": "yes",
+        "name": "Croydon Custody Centre",
+        "operator": "Metropolitan Police",
+        "operator:wikidata": "Q1139213",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.0993576,
+          51.3854004
+        ]
+      },
+      "id": "way/244634550"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/244887255",
+        "addr:city": "London",
+        "addr:housenumber": "43",
+        "addr:postcode": "SE13 5JZ",
+        "addr:street": "Lewisham High Street",
+        "amenity": "police",
+        "building": "yes",
+        "check_date": "2025-07-09",
+        "level": "0",
+        "name": "Lewisham Police Station",
+        "opening_hours": "24/7",
+        "operator": "Metropolitan Police",
+        "operator:wikidata": "Q1139213",
+        "wheelchair": "yes",
+        "wikidata": "Q93887215",
+        "wikipedia": "en:Lewisham Police Station",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.0098697,
+          51.4633998
+        ]
+      },
+      "id": "way/244887255"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/250355929",
+        "amenity": "police",
+        "description": "Police station now closed.",
+        "name": "Streatham Police Station",
+        "opening_hours": "Closed"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.1296296,
+          51.430343
+        ]
+      },
+      "id": "node/250355929"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/255469607",
+        "addr:city": "London",
+        "addr:housename": "The Stable Yard",
+        "addr:postcode": "W8 6LU",
+        "addr:street": "Holland Park",
+        "amenity": "police",
+        "check_date": "2024-04-20",
+        "email": "parkspolice@rbkc.gov.uk",
+        "name": "Parks Police",
+        "phone": "+44 300 3655 101",
+        "website": "https://www.rbkc.gov.uk/leisure-and-culture/parks-police-service"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2035509,
+          51.5014236
+        ]
+      },
+      "id": "node/255469607"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/260422543",
+        "amenity": "police",
+        "check_date": "2025-01-30",
+        "name": "Barnet Police Station",
+        "note": "Closed to public",
+        "opening_hours": "closed",
+        "operator": "Metropolitan Police"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.198299,
+          51.6525188
+        ]
+      },
+      "id": "node/260422543"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/267565295",
+        "addr:city": "London",
+        "addr:housenumber": "25",
+        "addr:postcode": "E1 6PU",
+        "addr:street": "Brick Lane",
+        "amenity": "police",
+        "building": "yes",
+        "name": "Spitalfields and Bangaltown and Weaversguards",
+        "operator": "Metropolitan Police",
+        "operator:wikidata": "Q1139213",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.0714098,
+          51.5182294
+        ]
+      },
+      "id": "way/267565295"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/282094484",
+        "amenity": "police",
+        "created_by": "JOSM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.2317479,
+          42.9885886
+        ]
+      },
+      "id": "node/282094484"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/290597117",
+        "amenity": "police",
+        "name": "Ilford Police Station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.0801659,
+          51.5601438
+        ]
+      },
+      "id": "node/290597117"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/292225574",
+        "amenity": "police",
+        "created_by": "Potlatch 0.10b",
+        "name": "Woodford Police Station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.0228722,
+          51.6118361
+        ]
+      },
+      "id": "node/292225574"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/293813406",
+        "amenity": "police",
+        "check_date": "2024-10-22",
+        "name": "Albany Street Police Station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.1440082,
+          51.5265494
+        ]
+      },
+      "id": "node/293813406"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/311753729",
+        "addr:city": "Twickenham",
+        "addr:housenumber": "41",
+        "addr:postcode": "TW1 3SY",
+        "addr:street": "London Road",
+        "amenity": "police",
+        "building": "apartments",
+        "building:colour": "brown",
+        "building:levels": "2",
+        "building:material": "brick",
+        "image": "https://archive.org/details/twickenham-2019-02-17/Twickenham%202019-02-17/DSCN8740.JPG",
+        "name": "Twickenham Police Station",
+        "opening_hours": "24/7",
+        "operator": "Metropolitan Police",
+        "operator:wikidata": "Q1139213",
+        "roof:colour": "grey",
+        "roof:levels": "1",
+        "source": "Bing;survey",
+        "wheelchair": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.3293772,
+          51.4479308
+        ]
+      },
+      "id": "way/311753729"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/317007120",
+        "addr:city": "Upminster",
+        "addr:housenumber": "9",
+        "addr:postcode": "RM14 2AP",
+        "addr:street": "Corbets Tey Road",
+        "amenity": "police",
+        "name": "Metropolitan Police Upminster & Cranham Wards",
+        "operator": "Metropolitan Police",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.2491248,
+          51.5554021
+        ]
+      },
+      "id": "way/317007120"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/318887955",
+        "alt_name": "Acton Police Station",
+        "amenity": "police",
+        "building": "yes",
+        "name": "MPS Acton",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2748733,
+          51.5087666
+        ]
+      },
+      "id": "way/318887955"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/321325246",
+        "amenity": "police",
+        "check_date": "2024-12-30",
+        "name": "Brixton Police Station",
+        "operator": "Metropolitan Police",
+        "operator:wikidata": "Q1139213",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.1131025,
+          51.464773
+        ]
+      },
+      "id": "way/321325246"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/367131173",
+        "addr:city": "London",
+        "addr:housenumber": "10460",
+        "addr:postcode": "72847",
+        "addr:state": "AR",
+        "addr:street": "US 64",
+        "amenity": "police",
+        "ele": "112",
+        "gnis:feature_id": "2118873",
+        "name": "London Police Department",
+        "source": "USGS Geonames"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.2542998,
+          35.3319637
+        ]
+      },
+      "id": "node/367131173"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/409888612",
+        "addr:city": "London",
+        "addr:street": "Holmes Terrace",
+        "amenity": "police",
+        "name": "British Transport Police",
+        "operator": "British Transport Police",
+        "operator:wikidata": "Q174588"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.1108039,
+          51.5024485
+        ]
+      },
+      "id": "node/409888612"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/415075222",
+        "amenity": "police",
+        "building": "yes",
+        "building:levels": "2",
+        "name": "Hertford House",
+        "roof:shape": "hipped",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.0676149,
+          51.5412259
+        ]
+      },
+      "id": "way/415075222"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/425936623",
+        "amenity": "police",
+        "name": "British Transport Police",
+        "operator": "British Transport Police",
+        "operator:wikidata": "Q174588",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.1338728,
+          51.519609
+        ]
+      },
+      "id": "way/425936623"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/451257600",
+        "addr:city": "London",
+        "addr:housenumber": "230,232",
+        "addr:street": "Putney Bridge Road",
+        "amenity": "police",
+        "building": "yes",
+        "name": "Metropolitan Police",
+        "operator": "Metropolitan Police",
+        "operator:wikidata": "Q1139213",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2138526,
+          51.4648942
+        ]
+      },
+      "id": "way/451257600"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/452820422",
+        "addr:city": "London",
+        "addr:country": "GB",
+        "addr:housenumber": "593",
+        "addr:street": "Lea Bridge Road",
+        "addr:suburb": "Walthamstow",
+        "amenity": "police",
+        "building": "retail",
+        "building:levels": "3",
+        "source": "survey",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.0124088,
+          51.5760128
+        ]
+      },
+      "id": "way/452820422"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/464827610",
+        "amenity": "police",
+        "building": "yes",
+        "building:colour": "brown",
+        "building:levels": "3",
+        "building:material": "brick",
+        "name": "Camden Town with Primrose Hill Ward",
+        "operator": "Metropolitan Police",
+        "operator:wikidata": "Q1139213",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.1407392,
+          51.5392703
+        ]
+      },
+      "id": "way/464827610"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/487978258",
+        "amenity": "police",
+        "landuse": "residential",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.1057351,
+          51.4913713
+        ]
+      },
+      "id": "way/487978258"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/530772605",
+        "addr:housenumber": "1",
+        "addr:postcode": "HA5 3LA",
+        "addr:street": "Waxwell Lane",
+        "amenity": "police",
+        "name": "Pinner Police Station",
+        "operator": "Metropolitan Police",
+        "operator:wikidata": "Q1139213",
+        "phone": "+44 20 8721 2775"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.3849823,
+          51.5958008
+        ]
+      },
+      "id": "node/530772605"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/536465371",
+        "amenity": "police",
+        "building": "yes",
+        "building:colour": "blue",
+        "building:levels": "4",
+        "name": "British Transport Police",
+        "operator": "British Transport Police",
+        "operator:wikidata": "Q174588",
+        "roof:colour": "brown",
+        "roof:shape": "flat",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.148687,
+          51.4877866
+        ]
+      },
+      "id": "way/536465371"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/542927496",
+        "addr:city": "London",
+        "addr:housenumber": "55",
+        "addr:postcode": "E15 3AT",
+        "addr:street": "Alan Hocken Way",
+        "amenity": "police",
+        "branch": "West Ham",
+        "building": "public",
+        "building:levels": "2",
+        "check_date": "2024-09-04",
+        "name": "British Transport Police",
+        "note": "Not a Metropolitan Police station.",
+        "operator": "British Transport Police",
+        "operator:wikidata": "Q174588",
+        "short_name": "BTP",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.005259,
+          51.5290232
+        ]
+      },
+      "id": "way/542927496"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/571462872",
+        "amenity": "police",
+        "check_date": "2025-05-27",
+        "name": "British Transport Police",
+        "operator": "British Transport Police",
+        "operator:wikidata": "Q174588",
+        "source": "Network Rail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.1345656,
+          51.5277108
+        ]
+      },
+      "id": "node/571462872"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/589471683",
+        "amenity": "police",
+        "building": "yes",
+        "name": "Earlsfield Police Station",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.1870861,
+          51.4374591
+        ]
+      },
+      "id": "way/589471683"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/605377426",
+        "amenity": "police",
+        "name": "Hammersmith Police Station",
+        "operator": "Metropolitan Police",
+        "operator:wikidata": "Q1139213",
+        "source": "Bing;survey",
+        "wikidata": "Q18160117",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2244509,
+          51.4948249
+        ]
+      },
+      "id": "way/605377426"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/615494004",
+        "amenity": "police",
+        "building": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.1425733,
+          51.4528765
+        ]
+      },
+      "id": "way/615494004"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/640373735",
+        "amenity": "police",
+        "building": "yes",
+        "name": "Pollards Hill Police Station",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.1305014,
+          51.3994688
+        ]
+      },
+      "id": "way/640373735"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/681082197",
+        "amenity": "police",
+        "name": "Feltham Police Station",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.4041253,
+          51.446486
+        ]
+      },
+      "id": "way/681082197"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/683679686",
+        "addr:city": "London",
+        "addr:housenumber": "347",
+        "addr:postcode": "N22 8HU",
+        "addr:street": "High Road",
+        "amenity": "police",
+        "building": "yes",
+        "name": "Wood Green Police Station",
+        "operator": "Metropolitan Police",
+        "operator:wikidata": "Q1139213",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.1124761,
+          51.602959
+        ]
+      },
+      "id": "way/683679686"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/684476542",
+        "addr:city": "London",
+        "addr:housenumber": "25",
+        "addr:postcode": "NW1 9LN",
+        "addr:street": "Camden Road",
+        "amenity": "police",
+        "building": "office",
+        "email": "first_contact@btp.pnn.police.uk",
+        "name": "British Transport Police Force Headquarters",
+        "operator": "British Transport Police",
+        "operator:wikidata": "Q174588",
+        "phone": "+44 800 40 50 40",
+        "short_name": "BTP",
+        "website": "https://www.btp.police.uk",
+        "wikidata": "Q174588",
+        "wikipedia": "en:British Transport Police",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.1396346,
+          51.5408873
+        ]
+      },
+      "id": "way/684476542"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/693905952",
+        "amenity": "police",
+        "building": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.4350838,
+          51.5250807
+        ]
+      },
+      "id": "way/693905952"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/706611753",
+        "addr:city": "London",
+        "addr:housenumber": "325",
+        "addr:postcode": "SW15 3BB",
+        "addr:street": "Tildesley Road",
+        "amenity": "police",
+        "name": "West Putney Ward Metropolitain Police"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2295834,
+          51.4552902
+        ]
+      },
+      "id": "node/706611753"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/713773542",
+        "amenity": "police",
+        "name": "Hayes Police Station",
+        "source": "OS OpenData StreetView"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.4350209,
+          51.5250567
+        ]
+      },
+      "id": "node/713773542"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/729403095",
+        "addr:city": "Wembley",
+        "addr:housenumber": "1",
+        "addr:postcode": "HA9 9DS",
+        "addr:street": "Ken Way",
+        "amenity": "police",
+        "building": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2647762,
+          51.564757
+        ]
+      },
+      "id": "way/729403095"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/747039457",
+        "addr:city": "Ilford",
+        "addr:postcode": "IG6 1QB",
+        "addr:street": "High Street",
+        "amenity": "police",
+        "name": "Barkingside Police Station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.0804994,
+          51.5883992
+        ]
+      },
+      "id": "node/747039457"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/759899458",
+        "amenity": "police",
+        "name": "Park Police"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.163449,
+          51.4807695
+        ]
+      },
+      "id": "node/759899458"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/765498217",
+        "addr:housenumber": "99-101",
+        "addr:street": "Ladbroke Road",
+        "amenity": "police",
+        "name": "Notting Hill Police Station",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2029356,
+          51.5087014
+        ]
+      },
+      "id": "way/765498217"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/790188359",
+        "addr:city": "Hornchurch",
+        "addr:housenumber": "74",
+        "addr:postcode": "RM12 6NA",
+        "addr:street": "Station Lane",
+        "amenity": "police",
+        "building": "yes",
+        "name": "Hornchurch Police Station",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.2199371,
+          51.5591517
+        ]
+      },
+      "id": "way/790188359"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/794351096",
+        "amenity": "police"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.3863033,
+          51.4887537
+        ]
+      },
+      "id": "node/794351096"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/828546818",
+        "addr:housenumber": "74",
+        "addr:street": "Earl's Court Road",
+        "amenity": "police",
+        "building": "yes",
+        "name": "Kensington Police Station",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.197719,
+          51.4970783
+        ]
+      },
+      "id": "way/828546818"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/837558716",
+        "addr:city": "London",
+        "addr:housenumber": "182",
+        "addr:postcode": "EC2M 4NP",
+        "addr:street": "Bishopsgate",
+        "amenity": "police",
+        "fhrs:id": "293661",
+        "name": "Bishopsgate Police Station",
+        "wheelchair": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.0794024,
+          51.5174454
+        ]
+      },
+      "id": "way/837558716"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/841888722",
+        "amenity": "police",
+        "building": "yes",
+        "name": "Uxbridge Police Station",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.480806,
+          51.5491359
+        ]
+      },
+      "id": "way/841888722"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/900952254",
+        "amenity": "police",
+        "building": "yes",
+        "name": "Metropolitan Police Coldharbour Ward",
+        "operator": "Metropolitan Police",
+        "operator:wikidata": "Q1139213",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.1129081,
+          51.4615275
+        ]
+      },
+      "id": "way/900952254"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/964058475",
+        "amenity": "police",
+        "name": "Cray Valley East & Cray Valley West Wards",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.1149876,
+          51.3942058
+        ]
+      },
+      "id": "way/964058475"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/997904639",
+        "addr:city": "London",
+        "addr:housenumber": "82-84",
+        "addr:postcode": "E1W 2NE",
+        "addr:street": "Wapping High Street",
+        "amenity": "police",
+        "name": "Metropolitan Police Service Boat Yard",
+        "operator": "Metropolitan Police",
+        "operator:wikidata": "Q1139213",
+        "source": "Bing",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.060038,
+          51.5028052
+        ]
+      },
+      "id": "way/997904639"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1005028779",
+        "addr:city": "London",
+        "addr:housenumber": "33",
+        "addr:postcode": "N16 8DS",
+        "addr:street": "Stoke Newington High Street",
+        "amenity": "police",
+        "fhrs:id": "1043802",
+        "name": "Stoke Newington Police Station",
+        "not:addr:postcode": "N16 8DR",
+        "opening_hours": "24/7",
+        "source": "OS",
+        "wheelchair": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.0751047,
+          51.5578425
+        ]
+      },
+      "id": "way/1005028779"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1014440993",
+        "amenity": "police",
+        "building": "yes",
+        "name": "Kentucky State Police",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.103754,
+          37.1438445
+        ]
+      },
+      "id": "way/1014440993"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1030692520",
+        "addr:city": "London",
+        "addr:postcode": "N22 6UH",
+        "addr:street": "Quicksilver Place",
+        "amenity": "police",
+        "building": "yes",
+        "email": "STT.Haringey@met.police.uk",
+        "name": "Quicksilver Patrol Base",
+        "operator": "Metropolitan Police",
+        "operator:wikidata": "Q1139213",
+        "phone": "+44 2032 760 159",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.1166835,
+          51.595329
+        ]
+      },
+      "id": "way/1030692520"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1039055394",
+        "addr:city": "London",
+        "addr:housenumber": "444",
+        "addr:postcode": "E13 8HJ",
+        "addr:street": "Barking Road",
+        "amenity": "police",
+        "name": "Plaistow Police Station",
+        "operator": "Metropolitan Police",
+        "operator:wikidata": "Q1139213",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.0253456,
+          51.5228449
+        ]
+      },
+      "id": "way/1039055394"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1065379307",
+        "addr:city": "Ruislip",
+        "addr:housename": "Ruislip Police Station",
+        "addr:postcode": "HA4 7LE",
+        "addr:street": "The Oaks",
+        "amenity": "police",
+        "building": "yes",
+        "name": "Ruislip Police Station",
+        "nohousenumber": "yes",
+        "operator": "Metropolitan Police",
+        "operator:wikidata": "Q1139213",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.4274802,
+          51.5760382
+        ]
+      },
+      "id": "way/1065379307"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1087950133",
+        "amenity": "police",
+        "building": "yes",
+        "name": "Plumstead Police Station",
+        "operator": "Metropolitan Police",
+        "operator:wikidata": "Q1139213",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.095623,
+          51.4864982
+        ]
+      },
+      "id": "way/1087950133"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1101753309",
+        "amenity": "police",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.3295205,
+          51.4479966
+        ]
+      },
+      "id": "way/1101753309"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1165080619",
+        "addr:city": "London",
+        "addr:housename": "Spring Gardens",
+        "addr:postcode": "SE11 5EF",
+        "addr:street": "Tinworth Street",
+        "alt_name": "NCA",
+        "amenity": "police",
+        "name": "National Crime Agency",
+        "old_name": "Serious Organised Crime Agency",
+        "website": "https://www.nationalcrimeagency.gov.uk/",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.120769,
+          51.4901625
+        ]
+      },
+      "id": "way/1165080619"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1181890118",
+        "amenity": "police",
+        "building": "civic",
+        "name": "Wimbledon Police Station",
+        "opening_hours": "24/7",
+        "operator": "Metropolitan Police",
+        "operator:wikidata": "Q1139213",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2034624,
+          51.4212072
+        ]
+      },
+      "id": "way/1181890118"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1195738489",
+        "addr:housename": "Shakespeare Tower",
+        "amenity": "police",
+        "operator": "City of London Police",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.0950784,
+          51.5202001
+        ]
+      },
+      "id": "node/1195738489"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1211255778",
+        "addr:street": "King's Head Hill",
+        "amenity": "police",
+        "name": "Chingford Police Station",
+        "postal_code": "E4 7EA",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.001241,
+          51.6321077
+        ]
+      },
+      "id": "way/1211255778"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1289218950",
+        "addr:city": "London",
+        "addr:housenumber": "503",
+        "addr:postcode": "40741",
+        "addr:state": "KY",
+        "addr:street": "South Main Street",
+        "amenity": "police",
+        "building": "yes",
+        "emergency": "psap",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.081763,
+          37.126295
+        ]
+      },
+      "id": "way/1289218950"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1306564033",
+        "addr:city": "London",
+        "addr:housenumber": "10-12A",
+        "addr:postcode": "NW5 3AE",
+        "addr:street": "Holmes Road",
+        "alt_name": "Holmes Road Police Station",
+        "amenity": "police",
+        "check_date": "2024-08-09",
+        "name": "Kentish Town Police Station",
+        "opening_hours": "24/7",
+        "website": "https://www.met.police.uk/area/your-area/met/camden/kentish-town-south/stations-contact-points-and-offices/our-priorities",
+        "wikidata": "Q27086541",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.1420078,
+          51.5497002
+        ]
+      },
+      "id": "way/1306564033"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1333600101",
+        "addr:city": "London",
+        "addr:housenumber": "15",
+        "addr:postcode": "SW19 3YX",
+        "addr:street": "Deer Park Road",
+        "amenity": "police",
+        "name": "Roads and Transport Policing Command West Garage (TDV)",
+        "operator": "Metropolitan Police",
+        "operator:wikidata": "Q1139213",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.1865419,
+          51.4084774
+        ]
+      },
+      "id": "way/1333600101"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1390303288",
+        "amenity": "police",
+        "operator": "Transport Police"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.081174,
+          51.5178898
+        ]
+      },
+      "id": "node/1390303288"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1489585808",
+        "amenity": "police",
+        "name": "Harrow Central Police Station",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.3336633,
+          51.5779471
+        ]
+      },
+      "id": "node/1489585808"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1528889618",
+        "amenity": "police",
+        "check_date": "2025-04-03",
+        "name": "London Police Headquarters"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.2321931,
+          42.9883105
+        ]
+      },
+      "id": "node/1528889618"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1726841079",
+        "amenity": "police",
+        "source": "OS_OpenData_StreetView"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.1329247,
+          51.4713341
+        ]
+      },
+      "id": "node/1726841079"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1779488279",
+        "amenity": "police"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.3730301,
+          51.4096935
+        ]
+      },
+      "id": "node/1779488279"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1944287042",
+        "addr:city": "London",
+        "addr:housenumber": "323",
+        "addr:postcode": "SE1 1JL",
+        "addr:street": "Borough High Street",
+        "amenity": "police",
+        "name": "Overseas Visitors Records Office"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.0956861,
+          51.4995953
+        ]
+      },
+      "id": "node/1944287042"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1960173841",
+        "addr:city": "Rainham",
+        "addr:postcode": "RM13 9YZ",
+        "addr:street": "Bridge Road",
+        "amenity": "police",
+        "name": "Rainham Police Station",
+        "operator": "Metropolitan Police",
+        "operator:wikidata": "Q1139213",
+        "source:addr:postcode": "code-point_open"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.1912685,
+          51.5205323
+        ]
+      },
+      "id": "node/1960173841"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2012987485",
+        "addr:housenumber": "823",
+        "addr:postcode": "N6E 1W1",
+        "addr:street": "Exeter Road",
+        "amenity": "police",
+        "name": "OPP Regional Office",
+        "name:en": "OPP London Detachment",
+        "phone": "+1-519-681-0300",
+        "source": "NRCan-CanVec-10.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.2111469,
+          42.9253125
+        ]
+      },
+      "id": "node/2012987485"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2139997784",
+        "amenity": "police",
+        "note": "William Morris & Higham Hill Wards Safer Neighbourhood Teams"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.027751,
+          51.5898333
+        ]
+      },
+      "id": "node/2139997784"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2295993540",
+        "amenity": "police"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.3776763,
+          51.5297
+        ]
+      },
+      "id": "node/2295993540"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3208749516",
+        "amenity": "police",
+        "check_date": "2024-12-28",
+        "name": "Metropolitan Police ward office"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.3674718,
+          51.5488953
+        ]
+      },
+      "id": "node/3208749516"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3569370440",
+        "amenity": "police",
+        "name": "Elm Park Ward"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.2000823,
+          51.5495047
+        ]
+      },
+      "id": "node/3569370440"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3662044364",
+        "addr:city": "London",
+        "addr:housenumber": "73",
+        "addr:street": "Crouch Hall Road",
+        "amenity": "police",
+        "operator": "Metropolitan Police",
+        "operator:wikidata": "Q1139213",
+        "phone": "+44 20 8649 3515",
+        "website": "https://www.met.police.uk/your-area/haringey/crouch-end/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.124811,
+          51.5795393
+        ]
+      },
+      "id": "node/3662044364"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4360622780",
+        "amenity": "police",
+        "name": "Turnpike Parade Safer Neighbourhood Team Base"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.1024403,
+          51.5897657
+        ]
+      },
+      "id": "node/4360622780"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4521782579",
+        "amenity": "police",
+        "name": "Harlesden Police Station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2546171,
+          51.5418878
+        ]
+      },
+      "id": "node/4521782579"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4603423060",
+        "addr:housenumber": "13-15",
+        "addr:interpolation": "odd",
+        "addr:street": "Cat Hill",
+        "amenity": "police",
+        "name": "Safer Neighbourhoods",
+        "website": "https://www.police.uk/metropolitan/E05000048/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.1621063,
+          51.643233
+        ]
+      },
+      "id": "node/4603423060"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6747156328",
+        "amenity": "police",
+        "name": "Barking Police"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.0799034,
+          51.5365116
+        ]
+      },
+      "id": "node/6747156328"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6797585573",
+        "addr:housenumber": "2b",
+        "addr:street": "Prince George's Avenue",
+        "amenity": "police",
+        "email": "RaynesPark.snt@met.police.uk",
+        "name": "Dundonald, Raynes Park & West Barnes Wards Metropolitan Police Station",
+        "phone": "+44 20 8721 2459",
+        "website": "https://www.police.uk/metropolitan/E05000469/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2263892,
+          51.4092078
+        ]
+      },
+      "id": "node/6797585573"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8284137743",
+        "access": "private",
+        "addr:city": "London",
+        "addr:housenumber": "23",
+        "addr:postcode": "E15 1AZ",
+        "addr:street": "Station Street",
+        "amenity": "police",
+        "level": "0",
+        "name": "Stratford Police Station",
+        "operator": "British Transport Police",
+        "operator:wikidata": "Q174588"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.0025686,
+          51.5418028
+        ]
+      },
+      "id": "node/8284137743"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8563297629",
+        "amenity": "police"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.0319241,
+          51.4397786
+        ]
+      },
+      "id": "node/8563297629"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8693867429",
+        "amenity": "police",
+        "name": "Larkswood & Valley Police"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.0251885,
+          51.6081759
+        ]
+      },
+      "id": "node/8693867429"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9979583131",
+        "addr:housenumber": "9",
+        "addr:street": "High Street",
+        "amenity": "police",
+        "name": "West Wickham Ward",
+        "operator": "Metropolitan Police",
+        "operator:wikidata": "Q1139213"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.0151663,
+          51.3757313
+        ]
+      },
+      "id": "node/9979583131"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10571568905",
+        "amenity": "police",
+        "name": "Greenwich Park Police",
+        "operator": "Metropolitan Police",
+        "operator:wikidata": "Q1139213"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.0029555,
+          51.473051
+        ]
+      },
+      "id": "node/10571568905"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12135791295",
+        "amenity": "police",
+        "name": "Madison County Sheriff's Office"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.4480219,
+          39.8999478
+        ]
+      },
+      "id": "node/12135791295"
+    }
+  ]
+}

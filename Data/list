@@ -1,0 +1,25 @@
+🟥 犯罪数据
+Met Police Street-Level Crime
+构建预测标签、热点生成
+2018–2024
+精选高影响犯罪类型（如 burglary、robbery）
+🟦 流动性数据
+TfL Ridership + OSMnx Network
+构建 mobility 特征
+2018–2024 + 静态
+分时段提取（夜晚 / 白天 / 周末）
+🟩 社会经济数据
+IMD + Census
+控制变量、空间解释力
+2019–2021
+LSOA 级别空间聚合
+🟨 环境上下文
+OSM POIs, CCTV, Greenspace
+空间因子特征
+静态
+分类聚合（酒吧密度、CCTV密度）
+🟪 辅助边界数据
+LSOA, Borough
+地理可视化与聚合
+静态
+与所有数据空间对齐匹配
